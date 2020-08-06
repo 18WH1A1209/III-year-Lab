@@ -11,5 +11,5 @@ i.character count ii. character stuffing and iii.bit suffering
 
 ### Output
 
-![output](image (14).png)
+![output](image.png)
 
