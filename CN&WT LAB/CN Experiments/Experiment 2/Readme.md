@@ -2,20 +2,22 @@
 ## Aim of the Experiment
 To implement data link layer framing such as
 
-i.character count ii. character stuffing and iii.bit suffering
+i.character count ii. character stuffing and iii.bit stuffing
 
 ### Step by step procedure of experiment
-1.Entering the number of frames required
+1.Assigning i=0 and count=0
 
-2.Entering characters in the frames
+2.Entering the Data bits
 
-3.Scan the frames
+3.Scan the data bits
 
-4.Printing the character count of the frames
+4.If the bit is 1, then check for four consecutive 1,s
 
-5.Printing data recieved
+5.If so then stuff a bit 0 at that position 
 
-6.Printing frames at the reciever
+6.Printing data bits berofe stuffing
+
+7.Printing data bits after stuffing
 
 ### Output
 
