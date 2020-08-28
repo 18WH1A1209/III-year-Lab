@@ -19,5 +19,5 @@ i.character count ii. character stuffing and iii.bit suffering
 
 ### Output
 
-![output](exp1.png)
+![output](bitstuffing.png)
 
