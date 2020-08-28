@@ -2,7 +2,7 @@
 ## Aim of the Experiment
 To implement data link layer framing such as
 
-i.character count ii. character stuffing and iii.bit suffering
+i.character count ii. character stuffing and iii.bit stuffing
 
 ### Step by step procedure of experiment
 1.Entering the number of frames required
