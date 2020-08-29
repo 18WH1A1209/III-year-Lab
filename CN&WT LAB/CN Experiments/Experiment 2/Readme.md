@@ -7,7 +7,7 @@ i.character count ii. character stuffing and iii.bit stuffing
 ### Step by step procedure of experiment
 1.Assigning i=0 and count=0
 
-2.Enterind the number of frames
+2.Entering the number of frames
 
 3.Entering the Data bits
 
