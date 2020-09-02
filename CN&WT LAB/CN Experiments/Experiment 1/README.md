@@ -7,6 +7,7 @@ i.character count ii. character stuffing and iii.bit stuffing
 ### Step by step procedure of experiment
 
 ####Character Count
+
 1.Entering the number of frames required
 
 2.Entering characters in the frames
