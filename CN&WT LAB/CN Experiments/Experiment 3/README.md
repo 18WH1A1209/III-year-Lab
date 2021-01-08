@@ -17,7 +17,9 @@ In Go-Back-N ARQ, N is the sender's window size. Suppose we say that Go-Back-3, 
 In Go-Back-N ARQ, the frames are numbered sequentially as Go-Back-N ARQ sends the multiple frames at a time that requires the numbering approach to distinguish the frame from another frame, and these numbers are known as the sequential numbers.
 
 1.Firstly, the sender will send the first n(window size) frames to the receiver, and now the sender is expected to receive the acknowledgment of the 0th frame.
+
 2.Once the transfer of window size is completed, the sender receives the acknowledgment of the first frame, i.e., packet no1. As the acknowledgment receives, the sender sends the next packet.
+
 3.Now, the sender receives the acknowledgment of packet 2. After receiving the acknowledgment for packet 2, the sender sends the next packet.
 By repeating these steps we  conclude  the total  transmissions  required.
 
