@@ -32,11 +32,11 @@
 
 ## Analysis and statistics
 ### Captured file statistics
-![output](File_Capture_Prop.png)
+![output](File_Capture_Properties.png)
 
 ### Packet Lengths
-![output](Packet_length.png)
+![output](Packet_lengths.png)
 
 ### I/O graphs
-![output](IO_Graphs.png)
+![output](IOGraph.png)
 
