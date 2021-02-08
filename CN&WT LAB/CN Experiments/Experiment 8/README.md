@@ -13,5 +13,5 @@ The algorithm works similarly to the way an actual leaky bucket holds water: The
 3.Reset the counter and go to step 1.
 
 ## Output
-![output](Leaky_bucket_output.png)
+![output](Leaky_bucket.png)
 
